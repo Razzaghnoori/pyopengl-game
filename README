@@ -1,0 +1,12 @@
+DO THE FOLLOWING TO INSTALL DEPENDENCIES AND RUN THE PROGRAM
+
+1) virtualenv venv
+2) source venv/bin/activate
+3) pip install -U pip
+4) pip install -r requirements.txt
+5) python main.py
+
+
+TO EXIT FROM VIRTUALENV:
+
+1) deactivate
